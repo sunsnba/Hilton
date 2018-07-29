@@ -76,3 +76,52 @@ a {
     padding-top: 3px;
 }
 
+#hotel-info-exterior {
+    width: 100%;
+    box-sizing: border-box;
+    border: solid white 5px;
+    margin-top: 25px;
+    margin-bottom: 12px;
+}
+
+#hotel-info-text {
+    line-height: 1.5;
+    margin-bottom: 1.2em;
+    font-size: .9em
+}
+
+#mailing-address {
+    color: #A1BED9;
+}
+
+
+.menu-option {
+    width: 100%;
+    padding: 12px 15px;
+    background: linear-gradient(#E8EBEE, #C1CEDB);
+    color: #021d4f;
+    font-size: 1em;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+}
+
+.menu-option-description {
+    float: left;
+    color: #061729;
+}
+
+.menu-pointer {
+    color: #434343;
+    float: right;
+    font-weight: 500;
+}
+
+#menu-map {
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-bottom: #DCDCDC;
+}
+
+#hotel-phone-number {
+    font-size: .9em;
+}
